@@ -15,3 +15,5 @@ Nuestro objetivo es optimizar, mediante el uso de la IA generativa de ChatGPT, e
 Antes de empezar… Necesitarás descargar el cuaderno del curso y subirlo a tu Google Colab. Para usar este entorno, es necesario tener una cuenta de Gmail, ya que todo el cuaderno se almacenará en Google Drive.
 
 ¿Todo listo? ¡Empecemos con el trabajo práctico! ¡Buen estudio y adelante!
+
+link: https://github.com/alura-es-cursos/2123-ia-aplicada-a-data-science-construccion-de-visualizaciones/blob/main/IA_aplicada_a_ciencia_de_datos.ipynb
